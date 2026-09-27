@@ -1,0 +1,37 @@
+race,education,year,incarcerated_pct
+Black,College,1980,0.47393364928909953
+Black,College,1990,0.8048289738430584
+Black,College,2000,1.9102196752626552
+Black,College,2010,0.5893909626719057
+Black,High School Dropout,1980,3.815580286168521
+Black,High School Dropout,1990,3.764420157862781
+Black,High School Dropout,2000,4.1075429424943986
+Black,High School Dropout,2010,1.7214397496087637
+Black,Middle School,1980,14.285714285714285
+Black,Middle School,1990,8.21917808219178
+Black,Middle School,2000,8.0
+Black,Middle School,2010,2.083333333333333
+Hispanic,College,1980,0.8849557522123894
+Hispanic,College,1990,0.3552397868561279
+Hispanic,College,2000,0.44510385756676557
+Hispanic,College,2010,0.17452006980802792
+Hispanic,High School Dropout,1980,1.4577259475218658
+Hispanic,High School Dropout,1990,1.5655577299412915
+Hispanic,High School Dropout,2000,1.8567639257294428
+Hispanic,High School Dropout,2010,0.522875816993464
+Hispanic,Middle School,1980,2.247191011235955
+Hispanic,Middle School,1990,0.0
+Hispanic,Middle School,2000,2.941176470588235
+Hispanic,Middle School,2010,0.0
+White,College,1980,0.22123893805309736
+White,College,1990,0.11723329425556857
+White,College,2000,0.1902044698050404
+White,College,2010,0.10335917312661498
+White,High School Dropout,1980,0.9652509652509652
+White,High School Dropout,1990,0.9705698184095178
+White,High School Dropout,2000,0.8488063660477453
+White,High School Dropout,2010,0.6351039260969976
+White,Middle School,1980,3.6036036036036037
+White,Middle School,1990,1.4150943396226416
+White,Middle School,2000,1.4084507042253522
+White,Middle School,2010,0.0
